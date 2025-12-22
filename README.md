@@ -18,7 +18,7 @@ Use [Claude.ai](https://claude.ai) with this special skill to generate professio
 
 > ⚠️ Requires Claude Pro, Max, Team, or Enterprise plan
 
-1. Download the skill files: [`SKILL.md`](architecture-diagram-skill/SKILL.md) and [`template.html`](architecture-diagram-skill/assets/template.html)
+1. Download the skill files (right click Save As): [`SKILL.md`](architecture-diagram-skill/SKILL.md) and [`template.html`](architecture-diagram-skill/assets/template.html)
 2. Go to [claude.ai](https://claude.ai) → **Settings** → **Capabilities** → **Skills**
 3. Click **+ Add** and upload both files
 4. Toggle the skill on
