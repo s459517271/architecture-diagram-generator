@@ -25,7 +25,7 @@ Use [Claude.ai](https://claude.ai) with this special skill to generate professio
 
 📚 Need help? See the [full installation guide](#-installation) below.
 
-### Step 2: Describe Your Architecture
+### Step 2: Get Text that Describes Your Architecture
 
 You just need a text description of your system. Pick whichever works for you:
 
@@ -58,17 +58,19 @@ Don't have a specific system? Ask Claude for a starting point:
 What's a typical architecture for a SaaS application?
 ```
 
-### Step 3: Generate Your Diagram
+### Step 3: Generate Your Diagram by Asking Claude to Use the Skill 
 
 Take the output from Step 2 and paste it into [Claude](https://claude.ai) (with the Architecture Diagram Generator skill installed):
 
 ```
-Create an architecture diagram from this description:
+Use your architecture diagram skill to create an architecture diagram from this description:
 
 [PASTE YOUR ARCHITECTURE DESCRIPTION HERE]
 ```
 
 That's it! Claude will generate a beautiful HTML file you can open in any browser.
+
+Then!  You can iterate simply by using chat.   Ask Claude:  Please update XYZ to see your diagram update in real time.  You can ask Claude to fix any issues you have with the diagram as well.  
 
 ---
 
