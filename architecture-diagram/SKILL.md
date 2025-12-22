@@ -1,19 +1,10 @@
 ---
 name: architecture-diagram
-description: Create professional, dark-themed architecture diagrams as standalone HTML files with SVG graphics. Use when the user asks for system architecture diagrams, infrastructure diagrams, cloud architecture visualizations, security diagrams, network topology diagrams, or any technical diagram showing system components and their relationships. Produces downloadable HTML files that render beautifully in any browser.
-version: 1.0
-author: Cocoon AI (hello@cocoon-ai.com)
+description: Create professional, dark-themed architecture diagrams as standalone HTML files with SVG graphics. Use when the user asks for system architecture diagrams, infrastructure diagrams, cloud architecture visualizations, security diagrams, network topology diagrams, or any technical diagram showing system components and their relationships.
 license: MIT
-changelog:
-  - version: 1.0
-    date: December 2025
-    changes:
-      - Initial release
-      - Dark theme with semantic color palette
-      - Arrow z-ordering for clean layering
-      - Opaque background masking for transparent fills
-      - JetBrains Mono typography
-      - Responsive HTML template with summary cards
+metadata:
+  version: "1.0"
+  author: Cocoon AI (hello@cocoon-ai.com)
 ---
 
 # Architecture Diagram Skill
