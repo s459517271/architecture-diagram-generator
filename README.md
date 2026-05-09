@@ -279,4 +279,4 @@ Suggestions and improvements welcome! Feel free to:
 
 ---
 
-Made with ❤️ by [Cocoon AI](mailto:hello@cocoon-ai.com)
+Made with ❤️ by [Cocoon AI](https://cocoon-ai.com)
