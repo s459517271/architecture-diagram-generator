@@ -9,7 +9,7 @@ Use [Claude.ai](https://claude.ai) with this special skill to generate professio
 - **Share easily** — output is a single HTML file, no special software required
 - **Export built in** — Copy / PNG / PDF buttons baked into every diagram
 
-![Version](https://img.shields.io/badge/version-1.0-blue)
+![Version](https://img.shields.io/badge/version-1.1-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Claude](https://img.shields.io/badge/Claude-Skill-orange)
 
@@ -198,7 +198,7 @@ Simply ensure both files are accessible to Claude:
 ```
 architecture-diagram/
 ├── SKILL.md              # Skill instructions
-└── assets/
+└── resources/
     └── template.html     # Base template
 ```
 
