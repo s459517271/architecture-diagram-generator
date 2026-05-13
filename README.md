@@ -260,6 +260,10 @@ The generated HTML structure:
 - **Background:** `#020617` with 40px grid pattern
 - **Z-ordering:** Arrows drawn first, masked by opaque backgrounds under transparent component fills
 
+## 📄 Sister skill
+
+For step-by-step workflows that unfold in time — approval flows, runbooks, automation pipelines, [process-flow-diagram-generator](https://github.com/Cocoon-AI/process-flow-diagram-generator) — same design language, different shape language.
+
 ## 📝 License
 
 MIT License — Free to use, modify, and distribute.
